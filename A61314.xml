@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections on a late book, called The golden age, &amp;c. Directed to the bookseller, in New-Inn, in Witch-street, without Temple-Bar, for R.G. By Eugenius Philalethes Junr.</title>
+            <author>Samber, Robert.</author>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61314</idno><idno type="EEBO-CITATION">99831335</idno>
+  <idno type="VID">35798</idno>
+  <idno type="EEBO-PROQUEST">2240896021</idno>
+  
+            <idno type="STC">Wing S527</idno>
+            <idno type="STC">ESTC R219888</idno>
+            <idno type="PROQUEST">99831335</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831335e"/>
+            <note>(EEBO-TCP ; phase 2, no. A61314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2042:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections on a late book, called The golden age, &amp;c. Directed to the bookseller, in New-Inn, in Witch-street, without Temple-Bar, for R.G. By Eugenius Philalethes Junr.</title>
+                  <author>Samber, Robert.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be sold by A. Baldwin, at the Oxford-Arms, in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Eugenius Philalethes Junr. = Robert Samber.</note>
+                  <note>A response to: The golden age, or, The reign of Saturn review'd.</note>
+                  <note>Caption title on p. 3 reads: Some reflections, &amp;c.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Golden age, or, The reign of Saturn review'd --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35798:1"/>
+            <p>SOME REFLECTIONS On a late BOOK, CALLED, The GOLDEN AGE, <hi>&amp;c.</hi>
+            </p>
+            <p>Directed to the <hi>BOOKSELLER,</hi> in <hi>New-Inn,</hi> in <hi>Witch-street,</hi> without <hi>Temple-Barr,</hi> for <hi>R. G.</hi>
+            </p>
+            <p>By <hi>Eugenius Philalethes</hi> Jun<seg rend="sup">r.</seg>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be sold by <hi>A. Baldwin,</hi> at the <hi>Oxford-Arms,</hi> in <hi>Warwick-Lane.</hi> 1698.</p>
+            <pb facs="tcp:35798:2"/>
+            <pb facs="tcp:35798:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:35798:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce I have no other way to make my Acknow<g ref="char:EOLhyphen"/>ledgments to Mr. <hi>R. G.</hi> for his Publishing the Book, called, <hi>The Golden Age, or the Reign of</hi> Saturn <hi>Review'd,</hi> I have taken this Occasion to send to you in print. First, desiring that on the behalf of all the true Sons of <hi>Hermes,</hi> you will return him Thanks for his Exposing it to the capricious Humours of this inconstant World, as he rightly has it in his Epistle to the Reader. And next that I may freely give my Opinion of the Book its self, and intimate to you how it is at present looked upon by others. This, I think, is necessary to be known by you, since I find there are some who are not willing it should be much dispersed, and because <hi>R. G.</hi> hints that the Au<g ref="char:EOLhyphen"/>thor is not, and himself pretends not throughly to understand this sort of Learning; I have taken upon me to argue a little on this Subject, and to throw my Mite into the Philosophical Treasury. In sending thus to you, I shall, I hope, both oblige you and others; and it may be provoke some of the Brotherhood mighty in Deed and Word, to stand up for or against the Cause; if he be <hi>pro</hi> we shall be obliged, if <hi>con</hi> we know how to be even with him. And so I leave you to the following Dis<g ref="char:EOLhyphen"/>course. I am</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant,</hi> Eugenius Philalethes <hi>Jun<seg rend="sup">r.</seg>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:35798:3"/>
+            <head>
+               <hi>SOME REFLECTIONS,</hi> &amp;c.</head>
+            <p>FIRST as to the Book it self: The Author modestly calls it an <hi>Essay,</hi> tending to set forth a True and Natural Way to prepare and fix common <hi>Mercury</hi> into <hi>Silver</hi> and <hi>Gold,</hi> intermixed with a Discourse, Vindica<g ref="char:EOLhyphen"/>ting and Explaining that famous univer<g ref="char:EOLhyphen"/>sal Medicine of the Ancients, vulgarly called the <hi>Philosopher's Stone,</hi> built up<g ref="char:EOLhyphen"/>on four Natural Principles. This, say some, is a notable Title, did the Book make it out, but they cannot find it to be so; yet (without their good leave) notwithstanding their short sightedness, others can plainly read that he hath ful<g ref="char:EOLhyphen"/>ly made it out, beyond what any Man could reasonably expect; for he hath shewn that in order to fix common <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> the Artist must acuate, or impreg<g ref="char:EOLhyphen"/>nate it with a true Mineral Sulphur or Fire; and that the whole Preparation is
+<pb n="4" facs="tcp:35798:4"/> made by four Metalline Principles; <hi>viz. Metalline Fire, Air, Earth</hi> and <hi>Water,</hi> and perfected by three Works, or Ope<g ref="char:EOLhyphen"/>rations. This, I dare affirm, is plainer than any Book yet extant hath set forth; but this is nothing, in comparison, of what follows; for further he shews us, <milestone type="tcpmilestone" unit="unspecified" n="1"/> That the two first Principles must be purged, purified and joyned by a strong Fire; which being done, he says, is the first Operation, or Medicine of the first Order, called <hi>Radix Artis;</hi> and also directs us to a true Receipt for doing it, tells us it is commonly made to be sold, tho' not always for this purpose; and to put the matter out of doubt, has described its Character, Colour, Quali<g ref="char:EOLhyphen"/>ty and Quantity, so plain, as a Man that runs may read it, and reading may easily name it. And he hath back'd and proved this part of his Position, by the concurrent Testimony of several eminent Philosophers, both Ancient and Modern; and hath further been so ex<g ref="char:EOLhyphen"/>act as to direct us to the very Pages and Sentences, <hi>&amp;c.</hi> If he hath com<g ref="char:EOLhyphen"/>mitted any Fault, in this Point, it is certainly none other, but that of being too open and sincere: For hereby he hath explained that for good Will,
+<pb n="5" facs="tcp:35798:4"/> which some others would not have done for many Pounds. And except he had learn'd this from the Worthy and Generous Adeptist <hi>Aeyrenaeus,</hi> we had not yet (I think) known what <hi>Geber</hi> meant by his Medicine of the first Order, nor have understood that <hi>Sendivogius, Norton, Valentine,</hi> &amp;c. were all of one Mind, though we had pored upon them many Years longer; for their Books have been a considerable time extant; And who amongst us hath from them so plainly shewn us this thing?</p>
+            <p>Next, he tells us, That the Water <milestone type="tcpmilestone" unit="unspecified" n="2"/> will not joyn with this prepared <hi>Fire</hi> and <hi>Air,</hi> without the Principle of the <hi>Earth</hi> which is a <hi>Medium,</hi> and must be accommodated to both, and is of a Metalline Substance; and he has plain<g ref="char:EOLhyphen"/>ly described it, with the Quantity, Co<g ref="char:EOLhyphen"/>lour and Quality; and further directed the ingenuous where they may have full Satisfaction of this Principle of Earth. This cannot be possibly be found fault with, but through Ignorance or Envy; nay, on the contrary, it re<g ref="char:EOLhyphen"/>quires the greatest Commendation; for we may easily perceive that other Men, and those Learned, have not been able
+<pb n="6" facs="tcp:35798:5"/> to find out the <hi>Doves</hi> of <hi>Diana,</hi> nor why so called; they seem to have been reserved only for his Discovery.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Next, as to the fourth Element or Principle of Water, It is plainly said and proved to be common <hi>Mercury,</hi> and to excel the rest in Quantity; which mixing with the other Principles or Elements, they joyn and purge each other to that degree, that the <hi>Mercury</hi> is made clean, sulphu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eous, and tending to fixation, and that then all is in <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> which the wise Men seek, because this prepared <hi>Mercury</hi> may now be di<g ref="char:EOLhyphen"/>gested into <hi>Sol</hi> and <hi>Luna;</hi> upon which <hi>Sol</hi> or <hi>Luna,</hi> and the prepared <hi>Mercury</hi> depends the <hi>Grand Medicine,</hi> or <hi>Elixir</hi> of the Ancient Philosophers, and the whole Art of Transmutation of Metals. This, I say, he has not only written, but proved from sufficient Authorities, has referred us to those Books, which more fully shew the manner of Subli<g ref="char:EOLhyphen"/>mation and true Regimens of the Fire; and further he hath shewn the Reasons why so great a Medicine is only to be found in Metals, and what that Divine Form, Instrument, or Agent is, which animates the whole Work, and is the true Author of all Transmutation. And
+<pb n="7" facs="tcp:35798:5"/> now what does there remain to be dis<g ref="char:EOLhyphen"/>covered? Or what can any reasonable or ingenuous Man desire more? Surely nothing but Time, Place and Oppor<g ref="char:EOLhyphen"/>tunity, with a due Qualification for so great an Undertaking. In which last thing, to advise us, the Author has been very Industrious, and that in a Religi<g ref="char:EOLhyphen"/>ous Manner; but not to swell or stuff his Book with Quotations, as some loosely, or rather foolishly imagine.</p>
+            <p>He hath said himself, that the World is more beholden to that famous Adep<g ref="char:EOLhyphen"/>tist <hi>Aeyrenaeus,</hi> than to all his Predeces<g ref="char:EOLhyphen"/>sors. This doubtless is true; for before him we read of none, that could ever attain the Knowledge of this high Art without a Master; and had he been si<g ref="char:EOLhyphen"/>lent, the Matter had yet remained un<g ref="char:EOLhyphen"/>der great Obscurity. Notwithstanding <hi>Hortolanus</hi> (as I may say) is an Ex<g ref="char:EOLhyphen"/>plainer both of <hi>Aeyrenaeus, Sendivogius, Norton,</hi> and others, who in their life time were the very Flower of <hi>Alchimy;</hi> but most of them writ only to shew themselves to their Fellows; and al<g ref="char:EOLhyphen"/>though <hi>Aeyrenaeus</hi> far excels the rest, yet he was not willing to reduce the Matter to a certain Number and Order, or to pursue his Discourse in a linear
+<pb n="8" facs="tcp:35798:6"/> Method more than he has done in his <hi>Introitus Apertus,</hi> which the dull Rea<g ref="char:EOLhyphen"/>ders cannot yet understand.</p>
+            <p>But notwithstanding all this Care and Exactness; to open our Eyes, the blind World cannot yet see, Men still stumble at Straws in the very Noon Day. The Books of <hi>Aeyrenaeus,</hi> tho' worth their weight in Gold, are but little valued, Men would have a great Knowledge but little Pains, a high Art but small Labour.</p>
+            <p>
+               <hi>Obj.</hi> 1. Says one to me I expect<g ref="char:EOLhyphen"/>ed the Book had shewn us readily how to fix common <hi>Quicksilver</hi> into <hi>Gold;</hi> but looking into it I saw no such thing. Whereupon, Sir, I asked him if he had seriously perused it as the mat<g ref="char:EOLhyphen"/>ter required? I only looked into it, re<g ref="char:EOLhyphen"/>plied he; and had it been so, I must needs have seen it.</p>
+            <p>By this I perceiv'd the Man was huge big in Conceit with a quick Appre<g ref="char:EOLhyphen"/>hension.</p>
+            <p>
+               <hi>Ans.</hi> What, Sir, said I, do you think it such an easie matter, as to see that with a Glance, which hundreds have not been able to get Sight of in many
+<pb n="9" facs="tcp:35798:6"/> Ages? Perhaps you expected some Re<g ref="char:EOLhyphen"/>ceipt of Baking, Boyling, or Frying it into a Malleableness; some Vinegar and Pepper to constringe it. Alas! Sir, 'tis no such thing; there is a great deal of Pains and Skill required to introduce a Metalline Sulphur into it, in order to its fixation; and if you cannot discover it in <hi>Hortolan,</hi> you will never be able to find it in <hi>Paracelsus,</hi> nor elsewhere that I know of, except in those elabo<g ref="char:EOLhyphen"/>rate Works of <hi>Aeyrenaeus:</hi> Nay, Sir, says he, if it be so he might have kept his Receipt to himself: Do you think Gentlemen will trouble themselves with Fire and Smoak to try his Whim? I think they have something else to do, says he; and away he flung.</p>
+            <p>
+               <hi>Obj.</hi> 2. Another hearing this Discourse, comes flily up to me, and leering in my Face, thus accosted me; Sir, says he, I am apt to think there is something in it: But, pray, what was this <hi>Hor<g ref="char:EOLhyphen"/>tolanus</hi> Jun<seg rend="sup">r.</seg> a rich Man or a poor Man, a Clerk or a Layman, and how far did he go in this Art? For, says he, till this be known, 'tis dangerous to fall upon Practise; but by the Circumstan<g ref="char:EOLhyphen"/>ces of the man we may easily guess at
+<pb n="10" facs="tcp:35798:7"/> the Truth of the matter. I answered him thus.</p>
+            <p>Ans. <hi>Nil habet infaelix paupertas durius in se quàm quòd ridiculos homines facit.</hi> He tells you plainly, Sir, quoth I, that for Satisfaction sake he tried the joyning of the four Elements, and the purging and distilling of his <hi>Mercury,</hi> according to the Principles laid down, and that they so far answered his Ex<g ref="char:EOLhyphen"/>pectation, tho he did it by <hi>Guess</hi> only, and not by <hi>Weight</hi> or <hi>Measure:</hi> But that being no Chymist, nor having ac<g ref="char:EOLhyphen"/>quaintance with any, he digested not his <hi>Mercury,</hi> by reason a convenient <hi>Atha<g ref="char:EOLhyphen"/>nor,</hi> or <hi>Furnace</hi> is altogether necessary. He further tells you, that he is allotted to serve others; and therefore, as I sup<g ref="char:EOLhyphen"/>pose, set about this thing immediately, that after having served the World, he might, perhaps, endeavour to serve himself. O generous, and unparallel'd Temper! And as for his being a Clerk, I think, his Work will sufficiently prove it.</p>
+            <p>There are also, Sir, said I, other Reasons very likely to induce him to this Publication before he made further tryal.</p>
+            <pb n="11" facs="tcp:35798:7"/>
+            <p>First, That he might set all men up<g ref="char:EOLhyphen"/>on the same bottom with himself, and thereby prevent impertinent Que<g ref="char:EOLhyphen"/>stions.</p>
+            <p>Secondly, That he might try the Temper of the <hi>Age,</hi> and possibly hear of the Accomplishment of this great Work from his Instructions, by some other Hand more at leisure to attend it than himself; for I cannot think he did Envy that any other should attain it be<g ref="char:EOLhyphen"/>fore him.</p>
+            <p>And lastly, This consideration might prevail, that if he should afterwards haply have the Opportunity, or rather Blessing to perfect this Work, he would be then, as it were, under a Philosophi<g ref="char:EOLhyphen"/>cal Necessity of Silence. Having said thus, Sir, my Gentleman modestly com<g ref="char:EOLhyphen"/>posing his Countenance, very gravely sat down.</p>
+            <p>
+               <hi>Obj.</hi> 3. But contrary to all Expe<g ref="char:EOLhyphen"/>ctation, as if it had been on purpose to provoke Laughter and Ridicule, up starts a third man: Hold, Sir, says he, I have an invincible Objection against the <hi>Golden Age,</hi> and it is this. The Book (says he) for I have seen it, is composed all, or the greatest part of
+<pb n="12" facs="tcp:35798:8"/> Quotations and Sentences from other mens Works; and therefore I do not approve of it.—</p>
+            <p>
+               <hi>Ans.</hi> Ha, ha, ha, ha, <hi>Risum tenea<g ref="char:EOLhyphen"/>tis amici,</hi> a notable Objection I assure you; such another as was made against an eminent Lawyer for backing his Ar<g ref="char:EOLhyphen"/>gument with half a dozen topping Au<g ref="char:EOLhyphen"/>thorities home to the Point. After a little silence was made; Sir (said I) was this slur found out before, or after you ask'd the price of the Book? Af<g ref="char:EOLhyphen"/>terwards, Sir, says he, I'le assure you; for I thought to have had the Book for Sixpence. At this all the Company were provok'd to Laughter; but least I should seem to give Offence, in the mean time I took Pen and Ink, and drew the Character as underneath:
+<figure>
+                  <p>Omnia mea mecum Porto,</p>
+                  <p>Nihil hic nisi Carmina desunt.</p>
+               </figure> By this time the Noise being prety well over, I returned to my Gentleman a<g ref="char:EOLhyphen"/>gain, in this manner. Sir, said I, since reducing a long and difficult Incertainty to a plain and regular Certainty don't
+<pb n="13" facs="tcp:35798:8"/> please you, since an orderly Collection of good substantial Authorities to open and confirm the most Mystical, yet highest piece of Philosophy that is in Nature don't please you, since to know the dark Sayings and passages of the Ancients, and that they were all to one and the same purpose, don't please you; Pray, Sir, What is it that will? Let me know your mind, I shall endeavour to please you, if possible?</p>
+            <p>
+               <hi>Obj.</hi> 4. Sir, replies he, I am altogether for something that's Florid and Lofty, some new Strain that's Diverting, some<g ref="char:EOLhyphen"/>thing that may be peculiarly called a man's own, and the like; or else what is so plain, in this <hi>Art,</hi> that it may ad<g ref="char:EOLhyphen"/>mit of no further Objection.</p>
+            <p>
+               <hi>Ans.</hi> With your leave, good Sir, said I, that can neither be reasonable nor commendable in this <hi>Art;</hi> for should a man, in a lofty Style, tell you that he has attained the Art, and per<g ref="char:EOLhyphen"/>fected the great Elixir, to say no more, you have but his bare Word for it; and it would be to you unprofitable, should he openly tell you his Principles, and the exact manner of preparing them,
+<pb n="14" facs="tcp:35798:9"/> with the true degree of Fire, through every Regimen, and thereby save you abundance of Thought and Inquiry; he might perhaps have this Answer that you knew it before, and then his Ad<g ref="char:EOLhyphen"/>vice would retort upon him as unneces<g ref="char:EOLhyphen"/>sary and idle: (Not here to mention any thing of the heavy <hi>Anathemas</hi> laid on him for this very thing by many Philosophers, both Ancient and Mo<g ref="char:EOLhyphen"/>dern;) And for him to lay open the whole Secret, and thereby displease the Ingenuous and true Sons of Art, for the sake of the Dull and Conceited, would be altogether unpardonable. And lastly, for him to broach a new airy System of Philosophy contrary to Truth, and against natural Principles, Orders and Authorities, would, at best, be but a Romance, something like a new Hypothesis of the Earth, which departing from the True, Ancient, and Mosaical Text, would shew forth the old Spirit of Contradiction (to say no worse of it) Clothed with a new Mantle of Self-conceited Invention.</p>
+            <p>But in short, Sir, I am of Opinion that whatsoever of this nature may be offered contradicting those Principles laid down by <hi>Hortolanus,</hi> it will in the
+<pb n="15" facs="tcp:35798:9"/> tryal prove fallacious; yet if any Man is desirous to shew forth his Metal, I think we have now a sure Touch-stone whereby to try his Allay.</p>
+            <p>
+               <hi>Obj.</hi> 5. I know not, Sir, says ano<g ref="char:EOLhyphen"/>ther, who was but lately come in, what to make of your Discourse; you seem sometimes in earnest, and other times in jest; however I say this that <hi>The Golden Age</hi> is only a Collection, and considering the many Hundreds of prin<g ref="char:EOLhyphen"/>ted Books relating to the Philosopher's Stone, I cannot think it any difficult matter to pick out of them all so small a Volume as this.</p>
+            <p>
+               <hi>Ans.</hi> That it is a Collection, Sir, (I replied) none denies; but that it has been so easily put together, <hi>non sequi<g ref="char:EOLhyphen"/>tur,</hi> on the contrary it was rather a most difficult Labour and Study, at<g ref="char:EOLhyphen"/>tended with a natural Disposition, or Genius to trace it out through such crooked <hi>Meanders</hi> and intricate <hi>Laby<g ref="char:EOLhyphen"/>rinths,</hi> in which the Ancients have so Mystically and Metaphorically placed it. It requires great Learning and Skill, especially in this Art, to distinguish every Sentence well, and to know to
+<pb n="16" facs="tcp:35798:10"/> what Work it doth appertain; a Skill which few (as <hi>Aeyrenaeus</hi> testifies) by all their Reading could e'er attain, and yet of Theory this is the main. And, in truth, Sir, I do not find that any man can give us a tollerable satisfaction in the matter, other than by an ocular Demonstration, or else a true natural Prospect, back'd by sufficient Reason and Authority; the first is not to be expected, the latter is now sufficiently done to our Hands.</p>
+            <p>
+               <hi>Obj.</hi> 6. Let it be so then (says he) yet I do not by this Book, in the least perceive the third Principle of Earth, the <hi>Doves of Diana.</hi> The two first, and last Elements, I must confess, seem to be Natural and Real; but the other, I presume, is only fictitious, and imagi<g ref="char:EOLhyphen"/>nary.</p>
+            <p>
+               <hi>Ans.</hi> To this I replied; there have, Sir, been several who seemed desirous of knowing the Name of the Publisher of <hi>Hortolanus</hi> his Book; and tho' it was plainly written before their Eyes, yet they could not perceive it. No won<g ref="char:EOLhyphen"/>der then, Sir, that you do not present<g ref="char:EOLhyphen"/>ly find cut the <hi>Doves of Diana:</hi> Pray
+<pb n="17" facs="tcp:35798:10"/> look upon that Character, that <hi>Omnia mea mecum Porto;</hi> Has it not the Com<g ref="char:EOLhyphen"/>plection of the four Philosophical Ele<g ref="char:EOLhyphen"/>ments in its Face?</p>
+            <p>Complection of Philosophical Ele<g ref="char:EOLhyphen"/>ments, say you? I can compare it to nothing fitter than a Mathematical En<g ref="char:EOLhyphen"/>gine, a battering Ram to beat down a Bulwark, or some such thing. If you can shew us no nearer resemblance, says he, I shall be wholly out of Conceit with this Figure casting too?</p>
+            <p>Hereupon, to please the Company, I took my Pen, and first I made a Figure of the Globe of the World; next I fix'd two Characters of the Planet <hi>Mars</hi> to the sides of my Globe; I made both their Circles to answer, in proportion, one half of the other, as near as I could guess, then I partly enclosed them with a Quadrangle divided in the half, or ra<g ref="char:EOLhyphen"/>ther two half Moons, which being joyn<g ref="char:EOLhyphen"/>ed might take up twice the compass of the other three; after this I surrounded the whole with a large common Circle, lightly flowing, as it were forwards and backwards, as the Figure seems to demonstrate;
+<pb n="18" facs="tcp:35798:11"/>
+               <figure>
+                  <l>Look about if you can find</l>
+                  <l>Plainly written which makes Men blind.</l>
+                  <p>War begets Poverty.</p>
+                  <p>Poverty Peace, <hi>&amp;c.</hi>
+                  </p>
+               </figure> Afterwards I writ on one side thereof, <hi>War begets Poverty, Poverty Peace,</hi> &amp;c. as Men use to do in their Almanacks. Having finished it I shewed it to the next Gentleman to pause upon; he, Sir, no sooner look'd upon it, but desired I might presently be secured, for he a<g ref="char:EOLhyphen"/>vouched I was no other than a Con<g ref="char:EOLhyphen"/>jurer, and had learnt these Tricks from Fryer <hi>Bacon;</hi> and to confirm his Sug<g ref="char:EOLhyphen"/>gestion, said <hi>Hortolan</hi> had also cited his Name in the Book: And hereupon they told me, unless I would plainly shew them what the <hi>Doves of Diana</hi> were, and also where to be found, they would inform against me for practising the <hi>Black Art,</hi> &amp;c.</p>
+            <pb n="19" facs="tcp:35798:11"/>
+            <p>Alas, Gentlemen said I! you may as well quarrel at the learned Gentleman who writ the Book, called, <hi>Mysterium Sigillorum Herbarum &amp; Lapidum,</hi> price 5 <hi>s.</hi> or thereabouts, in which are de<g ref="char:EOLhyphen"/>scribed many stranger Characters than these: Nay <hi>Paracelsus</hi> himself has stuff<g ref="char:EOLhyphen"/>ed a large Volume almost full of them, and such like Cunning Devices, to teach Men far stranger things than the Philo<g ref="char:EOLhyphen"/>sopher's Stone; yet neither of these were accounted Conjurers or Witches, but on the contrary great and learned Men. Moreover (continued I) there is an old Book, newly Reprinted, will teach you to beget wise and witty Children, either Sons or Daughters, as to your Worships shall seem meet; and if your Honours like not the knack of making the Powder of <hi>Pimper le Pimp,</hi> you may be pleased to practise these other more commendable Operations.</p>
+            <p>Come, come, Sir (said they) this shall not serve your turn; What you think to shift us off with a Banter, do you? To the Question, Sir. The <hi>Doves of Diana</hi> quickly, if you desire to save your Hide from Tar, and your Eyes and Ears from Feathers; speak quickly.</p>
+            <pb n="20" facs="tcp:35798:12"/>
+            <p>Then perceiving the great Danger, that was at hand, I readily bethought my self of some Sentences in <hi>Hortolan;</hi> and presently, though confusedly, with a loud Voice, cryed out, <hi>Vultur supra montem existens magna voce clamat in<g ref="char:EOLhyphen"/>quiens Sol meus &amp; radii mei sunt in me; Luna vero mihi propria est ac lumen meum omne lumen superat, seminate au<g ref="char:EOLhyphen"/>rum vestrum in terra alba fo— fo— fo— foliata.</hi> And there I stopt.</p>
+            <p>A prety Fellow, says one, he is also for his Quotations, but the Plagiary has not the Wit to cite them aright; be<g ref="char:EOLhyphen"/>sides, Sophister, What is this to the <hi>Doves of Diana?</hi> Is Earth and Birds of a like Nature, ha? Pray, Sir, hold (says another) do not interrupt the Gentleman, he is not so much besides the Mark as you imagine; the <hi>Doves of Diana</hi> are said to be the third Principle, and the third Principle is said to be Phi<g ref="char:EOLhyphen"/>losophical Earth, and Philosophical Earth is said to be <hi>Terra alba foliata;</hi> and this perhaps may be no hard matter to come by▪ pray, Gentlemen, be civil, let the Man alone.</p>
+            <p>I know not well (replied another) what to say; I think the matter is all a Jest. I wish we could perswade the
+<pb n="21" facs="tcp:35798:12"/> Man to sing us one of his Philosophical Songs, by way of further Divertise<g ref="char:EOLhyphen"/>ment; for, I think, he has given us his Dance and a half already. Agreed, cryed the rest, What say you to't, Spark? Are you prepared with one in your Budget? I have heard, says he, that the Dangerous Voyage for the Golden Fleece, the Encountering the Dragon that kept the Golden Apples in the Gardens of the <hi>Hesperides,</hi> the Sowing of the Serpent's Teeth by <hi>Cadmus,</hi> and the Fable of <hi>Hermaphroditus</hi> flying from the wanton Nymph, with that of St. <hi>George</hi> and the Dragon, are all Phi<g ref="char:EOLhyphen"/>losophical, yea and Hermetical too; What say you to it, Sir? Can you oblige us?</p>
+            <p>Gentlemen, said I, since you are so merrily Disposed, I will, for your Ci<g ref="char:EOLhyphen"/>vilities sake, endeavour to sing or say something to that purpose: For as con<g ref="char:EOLhyphen"/>cerning these <hi>Doves of Diana,</hi> I must ingenuously confess, Mr. <hi>Aeyrenaeus</hi> has coop'd them up in his <hi>Ripley Revi<g ref="char:EOLhyphen"/>ved,</hi> &amp;c. And <hi>Hortolan</hi> was not wil<g ref="char:EOLhyphen"/>ling to put them on the Wing, but only pointed at them; so that there is no o<g ref="char:EOLhyphen"/>ther way lest, but to buy <hi>Aeyrenaeus</hi> his Works; its true they will cost you a
+<pb n="22" facs="tcp:35798:13"/>
+               <hi>George</hi> or two; but after you have bought them, I know not, but you may come to wear a <hi>Garter.</hi>
+            </p>
+            <p>Now for my Song (said I) but first let me sound my Trumpet of Glass. <hi>Tarra tantarra— tarra tantarra— tar<g ref="char:EOLhyphen"/>ra tantarra—, murmur;</hi> two Dances and one Song, or two Songs and one Dance for a Halfpeny, any thing for an honest livelyhood: Hold, Sirs, next by way of preamble, give me leave to tell you, that once upon a time <hi>Diana</hi> in<g ref="char:EOLhyphen"/>vited the Seven Planets to a Hunting Match of Wild Beasts, and Fiery Dra<g ref="char:EOLhyphen"/>gons. The Song begins thus.</p>
+            <q>
+               <l>
+                  <note place="margin">ng.</note>
+                  <hi>DIana</hi> being disposed a Hunting for to go,</l>
+               <l>Ʋnto her Nymphs disclosed what she in<g ref="char:EOLhyphen"/>tends to do;</l>
+               <l>When the one had made it known to the other, as it seem'd,</l>
+               <l>With Quiver and with Bow they did at<g ref="char:EOLhyphen"/>tend their Queen.</l>
+            </q>
+            <p>The next part, Gentlemen (said I) goes in another Tune; therefore I must change my Note to what follows.</p>
+            <q>
+               <pb n="23" facs="tcp:35798:13"/>
+               <lg>
+                  <l>WHen fair <hi>Diana</hi> a Hunting we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,<note place="margin">An Her<g ref="char:EOLhyphen"/>metical Song.</note>
+                  </l>
+                  <l>With <hi>Venus</hi> in her Company;</l>
+                  <l>
+                     <hi>Saturn</hi> wore Robes of Parliament</l>
+                  <l>Of Velvet Black, as Black may be;</l>
+                  <l>And <hi>Jupiter</hi> in Purple State</l>
+                  <l>Did on his Father <hi>Saturn</hi> wait:</l>
+                  <l>
+                     <hi>Mars</hi> the Captain of the band,</l>
+                  <l>His Amorous <hi>Venus</hi> did attend,</l>
+                  <l>With fiery Face and Sword in Hand,</l>
+                  <l>Ʋntil her Pastime had an end;</l>
+                  <l>And <hi>Mercury</hi> in Coat of Mail,</l>
+                  <l>On him not usual to be seen,</l>
+                  <l>At this great Hunting did not fail,</l>
+                  <l>To wait upon the Princely Queen:</l>
+                  <l>
+                     <hi>Luna,</hi> pale Goddess of the Night,</l>
+                  <l>Threw off her Mask, and chang'd her Dress,</l>
+                  <l>Put on her Robes of shining Light,</l>
+                  <l>That she all Splendor might express:</l>
+                  <l>Then <hi>Sol</hi> whose Brightness doth excel,</l>
+                  <l>At this great Congress did appear;</l>
+                  <l>For as he's wise, he knew full well</l>
+                  <l>They're not compleat 'till he be there:</l>
+                  <l>Ʋpon his Royal Head he wore</l>
+                  <l>A Crown of glittring Gold;</l>
+                  <l>And on the Top thereof he bore</l>
+                  <l>The Figure of the World.<note place="margin">♁ 1.</note>
+                  </l>
+                  <l>
+                     <hi>Vulcan</hi> with Spears and Launces did attend,</l>
+                  <l>And other Tools their <hi>Armour</hi> for to mend;</l>
+                  <pb n="24" facs="tcp:35798:14"/>
+                  <l>And thus a Hunting they did go,</l>
+                  <l>Those Men were blest that did it see;</l>
+                  <l>Yet few or none were e'er blessed so,</l>
+                  <l>But such as true Adeptists be.</l>
+                  <l>A Son of <hi>Hermes</hi> present at the Fact,</l>
+                  <l>Hath since been pleas'd to write this noble Act;</l>
+                  <l>Which for your sakes is put in English Verse,</l>
+                  <l>And plainly to you shall the Sport re<g ref="char:EOLhyphen"/>hearse:</l>
+                  <l>In <hi>Lemnos Isle,</hi> near unto <hi>Vulcan</hi>'s Shop,</l>
+                  <l>Between a Vally and a Mountain's Top,</l>
+                  <l>
+                     <note place="margin">Others say a Green Dragon, and a Red Ly<g ref="char:EOLhyphen"/>on.</note>They first espied a Lyon Green,</l>
+                  <l>Encountring with a Dragon Red,</l>
+                  <l>Rare Sport, believe me, to be seen;</l>
+                  <l>Quoth <hi>Saturn</hi> we are richly sped,</l>
+                  <l>A gentle Hault now let us make,</l>
+                  <l>That we a view of them may take,</l>
+                  <l>And bid one of the Sophi's write,</l>
+                  <l>Th' Atcheiv'ments of this bloody Fight.</l>
+               </lg>
+               <lg>
+                  <l>With Rage the fiery Dragon 'gan to swell,</l>
+                  <l>And at his Foe great Floods of Venom spit;</l>
+                  <l>The Lyon stout and strong resisted well,</l>
+                  <l>And to the Dragon yielded near a bit,</l>
+                  <l>'Till, at the length, the Dragon rear'd on high,</l>
+                  <l>And in his rising stung the Lyon's Thigh.</l>
+               </lg>
+               <lg>
+                  <pb n="25" facs="tcp:35798:14"/>
+                  <l>Hideous roaring then Lyon made,</l>
+                  <l>So soon as he had felt the Dragon's Sting,</l>
+                  <l>And with Revenge this Mischief doubly paid,</l>
+                  <l>Striking his Paw under the Dragon's Wing;</l>
+                  <l>Great Streams of Blood then on the ground did lye,</l>
+                  <l>Stench, Steam, and Poyson darkned all the Skye.</l>
+               </lg>
+               <lg>
+                  <l>Thrice more the Dragon pierc'd the Lyon's Jaws,</l>
+                  <l>With Sting and Tallons tearing off hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Skin:</l>
+                  <l>As oft the Lyon with his mighty Paws</l>
+                  <l>Endeavour'd for to break the Dragon's Wing;</l>
+                  <l>Thus by great Force did bear him to the Ground,</l>
+                  <l>And with his Weapons gave him many a Wound.</l>
+               </lg>
+               <lg>
+                  <l>Then being greedy of the Dragon's Blood,</l>
+                  <l>Did drink thereof as if he meant to burst,</l>
+                  <l>Thinking the same would prove the only good</l>
+                  <l>To heal the Wound he had receiv'd at first;</l>
+                  <pb n="26" facs="tcp:35798:15"/>
+                  <l>But in his watching he did greatly fail,</l>
+                  <l>For there the Dragon quite bit off his Tail.</l>
+               </lg>
+               <lg>
+                  <l>Then from this Wound fresh Streams of Blood did flow;</l>
+                  <l>The Dragon now betook himself to flight;</l>
+                  <l>
+                     <hi>Diana</hi> seeing this, streight way let go,</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Two lucky Birds, a pair of Turtles bright;</l>
+                  <l>Which soaring high aloft attack'd their Game,</l>
+                  <l>And with their Charms made him de<g ref="char:EOLhyphen"/>scend again.</l>
+               </lg>
+               <lg>
+                  <l>A wonder strange that Doves should have such force,</l>
+                  <l>To stop a Dragon in his hasty flight;</l>
+                  <l>Yet not so strange, considering the course</l>
+                  <l>They took to do't, if you'll conceive't aright;</l>
+                  <l>For down his Throat they ventur'd, at pale Death,</l>
+                  <l>And with their Feathers took away his Breath.</l>
+               </lg>
+               <lg>
+                  <pb n="27" facs="tcp:35798:15"/>
+                  <l>The Lyon watchful, at this lucky hit,</l>
+                  <l>Snap'd at the Dragon with his greedy Jaws,</l>
+                  <l>And in an instant tore him bit from bit,</l>
+                  <l>And soon disbowel'd him with his crooked Claws,</l>
+                  <l>Devouring him so fast, that all did think</l>
+                  <l>He had been choak'd, and streight they call'd for Drink.</l>
+               </lg>
+               <lg>
+                  <l>Haste, haste, quick <hi>Mercury,</hi> noble <hi>Sol</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> did say,</l>
+                  <l>Some Liquor fetch to save the Lyon's life,</l>
+                  <l>To <hi>Hermes</hi> Well dispatch without delay;</l>
+                  <l>Dispatch, dispatch, pray make no further strife;</l>
+                  <l>Ʋp went his Heels, abroad his Arms did fly,</l>
+                  <l>He went, he stay'd, he came back in<g ref="char:EOLhyphen"/>stantly.</l>
+               </lg>
+               <lg>
+                  <l>Yet in that time a Council was essay'd</l>
+                  <l>To know how much the Lyon he should take;</l>
+                  <l>
+                     <hi>Saturn</hi> advis'd his Body might be weigh'd,</l>
+                  <l>And that a due Proportion they should make:</l>
+                  <pb n="28" facs="tcp:35798:16"/>
+                  <l>They gave him Drink, he drank such mighty store,</l>
+                  <l>That it excell'd his Body three times o're.</l>
+               </lg>
+               <lg>
+                  <l>This caus'd him greatly for to stretch and purge,</l>
+                  <l>To foam and fret, his Colour went and came,</l>
+                  <l>Great quantities of Poyson to disgorge,</l>
+                  <l>As black as any Ink appear'd the same;</l>
+                  <l>After a while he strangely changed his hew,</l>
+                  <l>And all his Strength and Vitals did renew.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Vulcan,</hi> said <hi>Saturn,</hi> to thy Forge him take,</l>
+                  <l>Let him be warm'd, and give him gentle Heat;</l>
+                  <l>And when that he Digestion well can make,</l>
+                  <l>See that thou feed him with his natura<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Meat;</l>
+                  <l>He had no sooner said, but it was done;</l>
+                  <l>From hence 'twas call'd the Lyon of th Sun.</l>
+               </lg>
+               <lg>
+                  <pb n="29" facs="tcp:35798:16"/>
+                  <l>Take these my Doves, <hi>Diana</hi> to him said,</l>
+                  <l>They're dead to sight, rifled, pale and wan;</l>
+                  <l>Give them a heat, and be not thou dis<g ref="char:EOLhyphen"/>may'd,</l>
+                  <l>They'll come to life again, ne'er fear it Man:</l>
+                  <l>This said, they all took Horse, away did ride;</l>
+                  <l>My first Part's done, no more then at this Tide.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>Gentlemen,</hi> said I,</p>
+            <p>If you will have the Second Part to the same Tune, I must beg your Pa<g ref="char:EOLhyphen"/>tience 'till a more convenient Season, for now the time will not permit. Agreed, say they, for we begin to like your Sport and Pastime; so each Man gave me a Halfpeny. I scrap'd my Leg, set my Trumpet to my Mouth, gave them a Dance and a half, and a<g ref="char:EOLhyphen"/>way I trip'd. 'Slife, says one, this is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Fellow that cryes Singing-glasses, and Cock-spurs about the Town; I know him by his Trumpet, and Treble
+<pb n="30" facs="tcp:35798:17"/> Cap of Maintenance; an arch Knave, I warrant him. Having gotten a di<g ref="char:EOLhyphen"/>stance from them▪ I turn'd about, and lifting up my Voice, made this Procla<g ref="char:EOLhyphen"/>mation: Gentlemen, said I, when I come again, I expect you to have longer Ears and a shorter Tongue; however I in<g ref="char:EOLhyphen"/>tend to bring Mr. <hi>Mastix</hi> along with me, together with a Mallet and Punch; you may well know what I mean, un<g ref="char:EOLhyphen"/>less you be Numbskuls; but I hope you'll give us no occasion to make use of them. So at present farewel.</p>
+            <closer>
+               <signed>Thus, <hi>Sir,</hi> I have given you a Rela<g ref="char:EOLhyphen"/>tion of my bold Adventure. Pray present my Service to Mr. <hi>R. G.</hi> I hope this will not be displeasing. I remain, <hi>Sir,</hi> his and your Ser<g ref="char:EOLhyphen"/>vant unknown, <hi>Eugenius Philalethes</hi> Jun<seg rend="sup">r</seg>
+               </signed>
+            </closer>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:35798:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
